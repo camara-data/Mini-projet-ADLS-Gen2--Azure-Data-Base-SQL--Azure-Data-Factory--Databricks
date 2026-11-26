@@ -1,4 +1,4 @@
-# Projet ADF Metadata-Driven – Architecture d’ingestion automatisée
+# Projet ADF Metadata-Driven - Architecture d’ingestion automatisée
 
 ## 1 - Contexte
 L’ingestion de données provenant de plusieurs sources, notamment Azure SQL Database et Azure Data Lake Storage Gen2 (ADLS Gen2), nécessite généralement la création et la maintenance de pipelines spécifiques pour chaque table ou fichier.
